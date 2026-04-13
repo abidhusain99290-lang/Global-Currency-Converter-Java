@@ -63,8 +63,9 @@ Total Indian Currency Amount: 8300.0
 
 ## 📸 Output Screenshot
 
+
 Example:
-Outputjava.png
+![Output Screenshot](screenshot.png)
 
 ---
 
@@ -83,6 +84,3 @@ Outputjava.png
 - Case-sensitive input (USD, EUR, GBP only)
 
 ---
-
-## 👨‍💻 Author
-Your Name
